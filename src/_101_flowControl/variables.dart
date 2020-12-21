@@ -14,6 +14,6 @@ void main() {
   for (var item in fruits) {
     print(item);
   }
-  print("..........")
+  print("..........");
   print(Contacts_);
 }
